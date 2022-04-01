@@ -1,0 +1,7 @@
+{
+   "autoload": {
+     "psr-4": {
+       "Proejct5\\": "src"
+     }
+   }
+}
