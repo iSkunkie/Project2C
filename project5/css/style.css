@@ -1,0 +1,41 @@
+#playModeDiv {
+    text-align: center;
+    margin: 20px 0 0;
+}
+
+.button {
+    background-color: #6e1414;
+    border: none;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    cursor: pointer;
+    box-shadow: 3px 3px 4px 4px black;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+#note {
+    font-size: 15px;
+    color: #666;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.regels{
+    border: 5px solid black;
+    text-align: center;
+    width: 750px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    background: linear-gradient(to right, darkred, black);
+    color: white;
+    display: block;
+
+}
